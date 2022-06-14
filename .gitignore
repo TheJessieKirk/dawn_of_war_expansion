@@ -10,6 +10,7 @@
 
 !*/
 
+!JXP/Data/*.lua
 !JXP/Data/Sound/*.rat
 !JXP/Data/Sound/Music/*.fda
 !JXP/Data/Sound/Music/*.rat
