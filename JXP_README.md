@@ -37,6 +37,7 @@ You should have received a copy of the GNU Lesser General Public License along w
 * _“ambient_ingame_02”_ normalised and end-silence trimmed.
 * _“ambient_ingame_04”_ normalised and end-silence trimmed.
 * _“ambient_space”_ remixed with _“[Drones » drone Space wind scifi.wav](<https://freesound.org/people/ztitchez/sounds/370754/>)”_, added reverb effect and normalised.
+* _“ambient_wind”_ has added reverb effect and normalised.
 * _“music_acid”_ normalised and end-silence trimmed.
 * _“music_chant”_ normalised, remastered for better stereo balance and end-silence trimmed.
 * _“music_coming_of_chaos”_ normalised and end-silence trimmed.
