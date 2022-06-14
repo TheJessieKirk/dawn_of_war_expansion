@@ -1,6 +1,10 @@
 *
 !.gitattributes
 !.gitignore
+!JXP_LICENSE.txt
+!JXP_README.md
+!JXP2_LICENSE.txt
+!JXP2_README.md
 
 !*/
 
