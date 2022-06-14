@@ -39,3 +39,4 @@ You should have received a copy of the GNU Lesser General Public License along w
 * _“music_invasion_theme”_ normalised and end-silence trimmed.
 * _“music_march_of_the_emperor”_ added from _Dawn of War Bonus CD_.
 * _“music_ork_theme”_ normalised and end-silence trimmed.
+* _“music_tank_march”_ normalised and end-silence trimmed.
