@@ -26,3 +26,4 @@ You should have received a copy of the GNU Lesser General Public License along w
 ### 1.1 Music
 
 * _“music_acid”_ normalised and end-silence trimmed.
+* _“music_coming_of_chaos”_ normalised and end-silence trimmed.
