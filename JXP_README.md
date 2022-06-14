@@ -25,4 +25,4 @@ You should have received a copy of the GNU Lesser General Public License along w
 
 ### 1.1 Music
 
-* _“music_acid”_ normalised.
+* _“music_acid”_ normalised and end-silence trimmed.
