@@ -44,3 +44,8 @@ You should have received a copy of the GNU Lesser General Public License along w
 * _“music_theme_spacemarines_01”_ normalised and end-silence trimmed.
 * _“music_urban_wasteland”_ normalised and end-silence trimmed.
 * _“music_warhammer40ktheme”_ normalised and end-silence trimmed.
+* _“stinger_motif_chaos”_ normalised and start/end-silence trimmed.
+* _“stinger_motif_eldar”_ normalised and start/end-silence trimmed.
+* _“stinger_motif_forcecommander”_ normalised and start/end-silence trimmed.
+* _“stinger_motif_ork”_ normalised and end-silence trimmed.
+* _“stinger_motif_spacemarines”_ normalised and start/end-silence trimmed.
