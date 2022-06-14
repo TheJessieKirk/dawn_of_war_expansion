@@ -15,12 +15,6 @@ The _[GNU Lesser General Public License](<https://www.gnu.org/licenses/lgpl-3.0>
 
 _[Ambient » Dark Ambience](<https://freesound.org/people/PatrickLieberkind/sounds/244961/>)_ is ® or ™, and/or © 2014  [PatrickLieberkind](<https://freesound.org/people/PatrickLieberkind/>). Licensed under [Attribution 4.0 International (CC BY 4.0)](<https://creativecommons.org/licenses/by/4.0/>).
 
-_[Atmospheric » Drone Soundscape Score](<https://freesound.org/people/NachtmahrTV/sounds/556718/>)_ is ® or ™, and/or © 2021  [NachtmahrTV](<https://freesound.org/people/NachtmahrTV/>). Released under [CC0 1.0 Universal (CC0 1.0)
-Public Domain Dedication](<https://creativecommons.org/publicdomain/zero/1.0/>).
-
-_[Sounds Effects » Horror Tension Reverse.wav](<https://freesound.org/people/DjDust/sounds/333668/>)_ is ® or ™, and/or © 2021  [DjDust](<https://freesound.org/people/DjDust/>). Released under [CC0 1.0 Universal (CC0 1.0)
-Public Domain Dedication](<https://creativecommons.org/publicdomain/zero/1.0/>).
-
 All rights reserved. All other trademarks, logos and copyrights are the property of their respective owners.
 
 ### 0.1 License and Limitation of Liability
@@ -35,7 +29,7 @@ You should have received a copy of the GNU Lesser General Public License along w
 
 ### 1.1 Music
 
-* _“ambient_city”_ remixed with _“[Atmospheric » Drone Soundscape Score](<https://freesound.org/people/NachtmahrTV/sounds/556718/>)”_ and _“[Sounds Effects » Horror Tension Reverse.wav](<https://freesound.org/people/DjDust/sounds/333668/>)”_, added reverb effect and normalised.
+* _“ambient_city”_ has added reverb effect and normalised.
 * _“ambient_desert”_ remixed with _“[Ambient » Dark Ambience](<https://freesound.org/people/PatrickLieberkind/sounds/244961/>)”_, added reverb effect and normalised.
 * _“ambient_ingame_01”_ normalised and end-silence trimmed.
 * _“ambient_ingame_02”_ normalised and end-silence trimmed.
