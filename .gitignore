@@ -11,6 +11,7 @@
 !*/
 
 !JXP/Locale/English/*.ucs
+!JXP2/Locale/English/*.ucs
 !ModTools/DataGeneric/JXP/_default.burn
 !ModTools/DataGeneric/JXP/Sound/*.fda
 !ModTools/DataGeneric/JXP/Sound/*.rat
