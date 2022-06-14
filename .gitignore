@@ -10,6 +10,9 @@
 
 !*/
 
+!JXP/Data/Sound/*.rat
+!JXP/Data/Sound/Music/*.fda
+!JXP/Data/Sound/Music/*.rat
 !JXP/Locale/English/*.ucs
 !JXP2/Locale/English/*.ucs
 !ModTools/DataGeneric/JXP/_default.burn
