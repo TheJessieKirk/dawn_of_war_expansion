@@ -50,4 +50,5 @@ You should have received a copy of the GNU Lesser General Public License along w
 * _“stinger_motif_ork”_ normalised and end-silence trimmed.
 * _“stinger_motif_spacemarines”_ normalised and start/end-silence trimmed.
 * _“stinger_mysterious_stinger”_ normalised and end-silence trimmed.
+* _“stinger_newobjective”_ remastered to stereo track, added improved reverb effect, end-silence trimmed and normalised.
 * _“stinger_pressure_stinger”_ normalised and start/end-silence trimmed.
