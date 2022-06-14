@@ -5,11 +5,19 @@ Copyright © 2022 Jessie Kirk.
 
 This release is __100% unofficial__ and in no way endorsed by [Games Workshop](<https://www.games-workshop.com/>), [Relic Entertainment](<https://www.relic.com/>), [SEGA](<https://www.sega.com/>), or their affiliates.
 
-_Games Workshop_, _GW_, _40K_, _Dawn of War_, _Dawn of War Winter Assault_, _Space Marine_, _Warhammer_, _Warhammer 40,000_, and all associated characters, creatures, illustrations, images, locations, logos, names, races, vehicles, weapons, and the distinctive likenesses thereof, are either ® or ™, and/or © 1983–2022 [Games Workshop Limited](<https://www.games-workshop.com/>), variably registered around the world.
+_[Games Workshop](<https://www.games-workshop.com/>)_, _GW_, _40K_, _Dawn of War_, _Dawn of War Winter Assault_, _Space Marine_, _Warhammer_, _Warhammer 40,000_, and all associated characters, creatures, illustrations, images, locations, logos, names, races, vehicles, weapons, and the distinctive likenesses thereof, are either ® or ™, and/or © 1983–2022 [Games Workshop Limited](<https://www.games-workshop.com/>), variably registered around the world.
 
-_Dawn of War_ is developed by Relic Entertainment and published by SEGA. _SEGA_, the SEGA logo, _Relic Entertainment_, and the Relic Entertainment logo are ® or ™, and/or © 1960–2022 of [SEGA Holdings Co., Ltd.](<https://www.sega.com/>), or its affiliates.
+_[Dawn of War](<https://www.dawnofwar.com/>)_ is developed by [Relic Entertainment](<https://www.relic.com/>) and published by [SEGA](<https://www.sega.com/>). _SEGA_, the SEGA logo, _Relic Entertainment_, and the Relic Entertainment logo are ® or ™, and/or © 1960–2022 of [SEGA Holdings Co., Ltd.](<https://www.sega.com/>), or its affiliates.
 
-The GNU General Public License is ® or ™, and/or © 1989, 1991, 1999, 2007 [Free Software Foundation](<https://www.fsf.org/>).
+_[Creative Commons](<https://creativecommons.org/>)_ and the Creative Commons licenses are ® or ™, and/or © 2001–2022 [Creative Commons](<https://creativecommons.org/>).
+
+The _[GNU Lesser General Public License](<https://www.gnu.org/licenses/lgpl-3.0>)_ is ® or ™, and/or © 1989, 1991, 1999, 2007 [Free Software Foundation](<https://www.fsf.org/>).
+
+_[Atmospheric » Drone Soundscape Score](<https://freesound.org/people/NachtmahrTV/sounds/556718/>)_ is ® or ™, and/or © 2021  [NachtmahrTV](<https://freesound.org/people/NachtmahrTV/>). Released under [CC0 1.0 Universal (CC0 1.0)
+Public Domain Dedication](<https://creativecommons.org/publicdomain/zero/1.0/>).
+
+_[Sounds Effects » Horror Tension Reverse.wav](<https://freesound.org/people/DjDust/sounds/333668/>)_ is ® or ™, and/or © 2021  [DjDust](<https://freesound.org/people/DjDust/>). Released under [CC0 1.0 Universal (CC0 1.0)
+Public Domain Dedication](<https://creativecommons.org/publicdomain/zero/1.0/>).
 
 All rights reserved. All other trademarks, logos and copyrights are the property of their respective owners.
 
@@ -25,6 +33,7 @@ You should have received a copy of the GNU Lesser General Public License along w
 
 ### 1.1 Music
 
+* _“ambient_city”_ remixed with _“[Atmospheric » Drone Soundscape Score](<https://freesound.org/people/NachtmahrTV/sounds/556718/>)”_ and _“[Sounds Effects » Horror Tension Reverse.wav](<https://freesound.org/people/DjDust/sounds/333668/>)”_, added reverb effect and normalised.
 * _“ambient_ingame_01”_ normalised and end-silence trimmed.
 * _“ambient_ingame_02”_ normalised and end-silence trimmed.
 * _“ambient_ingame_04”_ normalised and end-silence trimmed.
