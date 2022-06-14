@@ -15,6 +15,8 @@ The _[GNU Lesser General Public License](<https://www.gnu.org/licenses/lgpl-3.0>
 
 _[Ambient » Dark Ambience](<https://freesound.org/people/PatrickLieberkind/sounds/244961/>)_ is ® or ™, and/or © 2014  [PatrickLieberkind](<https://freesound.org/people/PatrickLieberkind/>). Licensed under [Attribution 4.0 International (CC BY 4.0)](<https://creativecommons.org/licenses/by/4.0/>).
 
+_[Drones » drone Space wind scifi.wav](<https://freesound.org/people/ztitchez/sounds/370754/>)_ is ® or ™, and/or © 2016  [ztitchez](<https://freesound.org/people/ztitchez/>). Licensed under [Attribution 3.0 Unported (CC BY 3.0)](<https://creativecommons.org/licenses/by/3.0/>).
+
 All rights reserved. All other trademarks, logos and copyrights are the property of their respective owners.
 
 ### 0.1 License and Limitation of Liability
@@ -34,6 +36,7 @@ You should have received a copy of the GNU Lesser General Public License along w
 * _“ambient_ingame_01”_ normalised and end-silence trimmed.
 * _“ambient_ingame_02”_ normalised and end-silence trimmed.
 * _“ambient_ingame_04”_ normalised and end-silence trimmed.
+* _“ambient_space”_ remixed with _“[Drones » drone Space wind scifi.wav](<https://freesound.org/people/ztitchez/sounds/370754/>)”_, added reverb effect and normalised.
 * _“music_acid”_ normalised and end-silence trimmed.
 * _“music_chant”_ normalised, remastered for better stereo balance and end-silence trimmed.
 * _“music_coming_of_chaos”_ normalised and end-silence trimmed.
