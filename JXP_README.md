@@ -27,6 +27,7 @@ You should have received a copy of the GNU Lesser General Public License along w
 
 * _“ambient_ingame_01”_ normalised and end-silence trimmed.
 * _“ambient_ingame_02”_ normalised and end-silence trimmed.
+* _“ambient_ingame_04”_ normalised and end-silence trimmed.
 * _“music_acid”_ normalised and end-silence trimmed.
 * _“music_chant”_ normalised, remastered for better stereo balance and end-silence trimmed.
 * _“music_coming_of_chaos”_ normalised and end-silence trimmed.
