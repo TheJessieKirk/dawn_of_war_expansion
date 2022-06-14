@@ -31,3 +31,4 @@ You should have received a copy of the GNU Lesser General Public License along w
 * _“music_dawnofwartheme”_ normalised and end-silence trimmed.
 * _“music_eldartheme”_ normalised and end-silence trimmed.
 * _“music_eldarthemev2”_ normalised and end-silence trimmed.
+* _“music_evil_isador_theme”_ normalised and end-silence trimmed.
