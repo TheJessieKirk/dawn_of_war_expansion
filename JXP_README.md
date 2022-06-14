@@ -29,3 +29,4 @@ You should have received a copy of the GNU Lesser General Public License along w
 * _“music_chant”_ normalised, remastered for better stereo balance and end-silence trimmed.
 * _“music_coming_of_chaos”_ normalised and end-silence trimmed.
 * _“music_dawnofwartheme”_ normalised and end-silence trimmed.
+* _“music_eldartheme”_ normalised, remastered for better stereo balance and end-silence trimmed.
