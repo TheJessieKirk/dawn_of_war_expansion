@@ -7,5 +7,3 @@ ModTools/DataGeneric/JXP/Sound/Music/music_force_commander_theme_sides.aup3 filt
 ModTools/DataGeneric/JXP/Sound/Music/ambient_city_remix.aup3 filter=lfs diff=lfs merge=lfs -text
 ModTools/DataGeneric/JXP/Sound/Music/ambient_city.wav filter=lfs diff=lfs merge=lfs -text
 ModTools/DataGeneric/JXP/Sound/Music/ambient_desert_remix.aup3 filter=lfs diff=lfs merge=lfs -text
-ModTools/DataGeneric/JXP/Sound/Music/ambient_space.aup3 filter=lfs diff=lfs merge=lfs -text
-ModTools/DataGeneric/JXP/Sound/Music/ambient_wind.aup3 filter=lfs diff=lfs merge=lfs -text
