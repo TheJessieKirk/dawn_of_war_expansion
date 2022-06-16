@@ -9,8 +9,8 @@
 !JXP2_README.md
 
 !*/
+!JXP/*.sga
 !JXP/Data/*.lua
-!JXP/Data/*.sga
 !JXP/Data/Sound/*.rat
 !JXP/Data/Sound/Music/*.fda
 !JXP/Data/Sound/Music/*.rat
